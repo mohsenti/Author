@@ -8,7 +8,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2017-02-01 11:55+0330\n"
+"PO-Revision-Date: 2017-02-01 19:08+0330\n"
 "Language-Team: \n"
 "X-Generator: Poedit 1.8.11\n"
 "Last-Translator: Mohammad Alhobayyeb <malhobayyeb@gmail.com>\n"
@@ -58,7 +58,7 @@ msgstr "مقالات"
 
 #: content/post-categories.php:9
 msgid "Published in"
-msgstr "منتشر شده در "
+msgstr "منتشر شده "
 
 #: content/post-categories.php:12
 msgid "View all posts in %s"
@@ -365,12 +365,12 @@ msgstr "بعدی"
 #: search.php:10
 msgid "%1$d search result for \"%2$s\""
 msgid_plural "%1$d search results for \"%2$s\""
-msgstr[0] "%1$d نتایج جستجو برای لـ \"%2$s\""
-msgstr[1] "%1$d نتایج جستجو برای لـ \"%2$s\""
-msgstr[2] "%1$d نتایج جستجو برای لـ \"%2$s\""
-msgstr[3] "%1$d نتایج جستجو برای لـ \"%2$s\""
-msgstr[4] "%1$d نتایج جستجو برای لـ \"%2$s\""
-msgstr[5] "%1$d نتایج جستجو برای لـ \"%2$s\""
+msgstr[0] "%1$d نتیجه برای جستجو \"%2 $s\" یافت شد."
+msgstr[1] "%1$d نتیجه برای جستجو \"%2 $s\" یافت شد."
+msgstr[2] "%1$d نتیجه برای جستجو \"%2 $s\" یافت شد."
+msgstr[3] "%1$d نتیجه برای جستجو \"%2 $s\" یافت شد."
+msgstr[4] "%1$d نتیجه برای جستجو \"%2 $s\" یافت شد."
+msgstr[5] "%1$d نتیجه برای جستجو \"%2 $s\" یافت شد."
 
 #: search.php:12
 msgid "No search results for \"%s\""
@@ -523,4 +523,4 @@ msgstr ""
 #: content/post-meta.php:6
 msgctxt "This blog post was published by some author on some date"
 msgid "Published by %1$s on %2$s"
-msgstr "منتشر شده در %1$s در تاریخ %2$s"
+msgstr "منتشر شده توسط %1$s در تاریخ %2$s"
